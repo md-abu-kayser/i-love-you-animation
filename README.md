@@ -1,6 +1,6 @@
 # I Love You Animation
 
-A beautiful, interactive animation that brings the phrase "I Love You" to life with elegant motion graphics and smooth transitions. This project showcases advanced animation techniques using JavaScript and the Mo.js animation library.
+> A beautiful, interactive animation that brings the phrase "I Love You" to life with elegant motion graphics and smooth transitions. This project showcases advanced animation techniques using JavaScript and the Mo.js animation library.
 
 ## Features
 
@@ -22,14 +22,14 @@ A beautiful, interactive animation that brings the phrase "I Love You" to life w
 
 ### Live Demo
 
-**Experience the animation live:** [I Love You Animation Demo](https://go-kawser.github.io/I-Love-You-Animation/)
+**Experience the animation live:** [I Love You Animation Demo](https://md-abu-kayser.github.io/I-Love-You-Animation/)
 
 ### Installation
 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/go-kawser/I-Love-You-Animation.git
+   git clone https://github.com/md-abu-kayser/I-Love-You-Animation.git
    ```
 
 2. **Navigate to the project directory:**
@@ -65,11 +65,7 @@ A beautiful, interactive animation that brings the phrase "I Love You" to life w
   const boom = 200;
   ```
 
-#### License
-
-**This project is licensed under the MIT License --> see the [LICENSE](LICENSE) file for details.**
-
-#### Contributing
+### Contributing
 
 **Contributions are welcome! Feel free to:**
 
@@ -79,7 +75,7 @@ A beautiful, interactive animation that brings the phrase "I Love You" to life w
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-#### Acknowledgments
+### Acknowledgments
 
 - [Mo.js](https://mojs.github.io/) for the amazing animation library
 - Inspiration from various CSS animation projects
@@ -87,5 +83,26 @@ A beautiful, interactive animation that brings the phrase "I Love You" to life w
 
 ---
 
-**Made with Love by: [go-kawser](https://github.com/go-kawser)**
-**Email:** abu.kayser.official@gmail.com
+### License
+
+- This project is licensed under the terms of the **[MIT License](./LICENSE)**.
+- You may replace or update the license as needed for client or proprietary projects.
+
+---
+
+### Contact and Maintainer
+
+**Maintainer:** [md-abu-kayser](https://github.com/md-abu-kayser)  
+**Name:** Md Abu Kayser - Full-Stack Engineer
+
+- **GitHub:** [github.com/abu.kayser-official](https://github.com/md-abu-kayser)
+- **Email:** [abu.kayser.official@gmail.com](mailto:abu.kayser.official@gmail.com)
+- **Project:** _I-Love-You-Animation_
+
+If you’d like this README tailored for a specific purpose - such as **hiring managers**, **open-source contributors**, or **client deliverables** - feel free to request a custom tone or format.
+
+---
+
+**Thank you for reviewing this "I Love You" mini project!**
+
+---
