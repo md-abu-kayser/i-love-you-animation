@@ -24,20 +24,20 @@
 
 ### Live Demo
 
-**Experience the animation live:** [I Love You Animation Demo](https://md-abu-kayser.github.io/I-Love-You-Animation/)
+**Experience the animation live:** [I Love You Animation Demo](https://md-abu-kayser.github.io/i-love-you-animation/)
 
 ### Installation
 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/md-abu-kayser/I-Love-You-Animation.git
+   git clone https://github.com/md-abu-kayser/i-love-you-animation.git
    ```
 
 2. **Navigate to the project directory:**
 
    ```bash
-   cd I-Love-You-Animation
+   cd i-love-you-animation
    ```
 
 ### Usage
@@ -92,10 +92,10 @@
 
 ---
 
-### Contact and Maintainer
+### Contact & Maintainer
 
 - **Name:** Md Abu Kayser - Full-Stack Engineer
-- **Project:** _I-Love-You-Animation_
+- **Project:** _i-love-you-animation_
 - **Maintainer:** [md-abu-kayser](https://github.com/md-abu-kayser)
 - **GitHub:** [github.com/abu.kayser-official](https://github.com/md-abu-kayser)
 - **Email:** [abu.kayser.official@gmail.com](mailto:abu.kayser.official@gmail.com)
