@@ -1,6 +1,6 @@
 # I Love You Animation
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE) [![Demo](https://img.shields.io/badge/Demo-GitHub%20Pages-brightgreen)](https://md-abu-kayser.github.io/I-Love-You-Animation/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE) [![Demo](https://img.shields.io/badge/Demo-GitHub%20Pages-brightgreen)](https://md-abu-kayser.github.io/i-love-you-animation/)
 
 > A beautiful, interactive animation that brings the phrase "I Love You" to life with elegant motion graphics and smooth transitions. This project showcases advanced animation techniques using JavaScript and the Mo.js animation library.
 
